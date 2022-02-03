@@ -1,6 +1,6 @@
 # Blue Teck World
 
-![AlvsDiasLOGO](https://github.com/https://github.com/Blue-Teck-World/)
+![AlvsDiasLOGO](https://github.com/Blue-Teck-World/.github/blob/Core/BlueTeckWorldLogo.png?raw=true)
 
 # Blue, future and Brazil.
 
