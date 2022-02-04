@@ -13,7 +13,7 @@ The name Blue Tec**k** World have, in "Teck" an k, who is purposeful. The k make
 ## See more:
 
  - See our Discord channel:
-Not today.
+[Nova Blue Teck World [Oficial] [BR]](https://discord.gg/7Ff9nDdQ)
 
  - See our website:
  [Blue Teck World Project Web](https://sites.google.com/view/blueteckworld-project-web)
