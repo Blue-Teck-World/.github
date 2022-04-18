@@ -14,7 +14,7 @@ The name Blue Tec**k** World have, in "Teck" an k, who is purposeful. The k make
 
 <button>
  <a href="https://discord.gg/7Ff9nDdQ">
-  See our Discord channel: Nova Blue Teck World [Oficial] [BR]
+  -<{@[  See our Discord channel: Nova Blue Teck World [Oficial] [BR]  ]@}>-
  </a>
 </button>
 
@@ -22,6 +22,6 @@ The name Blue Tec**k** World have, in "Teck" an k, who is purposeful. The k make
 
 <button type="button">
  <a href="https://sites.google.com/view/blueteckworld-project-web">
-  See our website: Blue Teck World Project Web
+  -<{@[  See our website: Blue Teck World Project Web  ]@}>-
  </a>
 </button>
